@@ -1,0 +1,58 @@
+[
+  {
+    "key": 1,
+    "title": "React E-Commerce",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description": "This is a project made with complete React js, Nodejs, HMTL, CSS, BOOTSTRAP.",
+    "demo": "https://www.github.com/pranaygatkine",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "WEB-RESTRAURANT",
+    "imageSrc": "https://pub-5d8aff725acf4e3f9f11593eeae3c846.r2.dev/production/12434/12434-restaurant-web-app-with-nodejs-1566801646.jpg",
+    "description": "This is a project made with JAVA, javaEE, XAMPP, Javascript, HTML, CSS, BOOTSTRAP,",
+    "demo": "https://www.github.com/pranaygatkine",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "MY-PORTFOLIO",
+    "imageSrc": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3d606a140168573.623c88905db96.png",
+    "description": "This is a project made with complete React js, Nodejs, HMTL, CSS, BOOTSTRAP.",
+    "demo": "https://www.github.com/pranaygatkine",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 4,
+    "title": "React Firebase App",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "This is a project made with complete React js, Nodejs, HMTL, CSS, BOOTSTRAP..",
+    "demo": "https://www.github.com/pranaygatkine",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 5,
+    "title": "VERTUAL-KEYBOARD",
+    "imageSrc": "https://www.fleksy.com/wp-content/uploads/2023/06/What_is_a_virtual_keyboard-1024x576.png",
+    "description": "This is a project made with complete HTML, CSS, BOOTSTRAP,JQUERY,JavaScript.",
+    "demo": "vertual-keyboard.vercel.app",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 6,
+    "title": "HR-Management System",
+    "imageSrc": "https://hrmpractice.com/wp-content/uploads/2017/08/HRMS.png",
+    "description": "This is a project made with complete HTML, CSS, BOOTSTRAP,JQUERY,JavaScript.",
+    "demo": "https://hr-management-app-omega.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 7,
+    "title": "Video-Call-App",
+    "imageSrc": "https://storage.googleapis.com/dialpad-cms.appspot.com/cms/transformed-images/storage_googleapis_com/dialpad-cms.appspot.com/cms/Meeting-in-a-browser-Single-Item-Card-v2_2023-01-30-200145_vgyt.webp",
+    "description": "This is a project made with complete HTML, CSS, BOOTSTRAP,JQUERY,JavaScript.",
+    "demo": "videomeeting-pranaygatkine-app.vercel.app",
+    "source": "https://www.github.com"
+  }
+]

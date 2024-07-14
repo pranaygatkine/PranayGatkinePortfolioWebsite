@@ -1,0 +1,93 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/bootrstrap.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "AngularJS",
+      "imageSrc": "skills/angular.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title":"Firebase",
+      "imageSrc":"skills/firebase.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/cp.png"
+    },
+    {
+      "title": "python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "JavaEE",
+      "imageSrc": "skills/javaEE.png"
+    },
+    {
+      "title": "Hibernate",
+      "imageSrc": "skills/hibernate.png"
+    },
+    {
+      "title": "Spring",
+      "imageSrc": "skills/spring.png"
+    },
+    {
+      "title": "SpringBoot",
+      "imageSrc": "skills/springboot.png"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skills/postman.png"
+    },
+    {
+      "title": "Unix",
+      "imageSrc": "skills/unix.png"
+    },
+    {
+      "title": "Jenkins",
+      "imageSrc": "skills/jenkins.png"
+    }
+
+
+
+  ]

@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "role": "Java Development Intern",
+      "organisation": "TechnoHacks",
+      "startDate": "August, 2023 -",
+      "endDate": "September, 2023",
+      "location": "Nashik,Maharashtra",
+      "experiences": [
+        "Worked on Java Development",
+        "Worked on Java Verious Project"
+      ],
+      "imageSrc": "company/technohacks.png"
+    }
+   
+  ]
